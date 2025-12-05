@@ -8,7 +8,6 @@
 #print("Hello " + "Ryan!")
 
 # We can gather input from the user by using python's input function. We can then use their input in our code
-#fav_snack = input("What is your favorite snack: ")
-#print("You love " + fav_snack)
+fav_snack = input("What is your favorite snack: ")
+print("You love " + fav_snack)
 
-git config --global user.email "ryanalyst95@gmail.com"
